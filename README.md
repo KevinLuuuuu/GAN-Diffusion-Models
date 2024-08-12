@@ -1,6 +1,11 @@
 # DLCV-Fall-2022-HW2
 Please click [this link](https://docs.google.com/presentation/d/1A38mJUAfDo-4yYzy6UCBZrEo3aE50ceO/edit?usp=sharing&ouid=107585355306558125830&rtpof=true&sd=true) to view the slides of HW2
 
+## Problem
+### P1 Image Generation (GAN) Face Generation
+### P2 Image Generation (Conditional Diffusion Model) Digit 0-9 Generation
+### P3 Unsupervised Domain Adaptation (DANN)
+
 ## Usage
 To start working on this assignment, you should clone this repository into your local machine by using the following command.
 
